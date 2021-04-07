@@ -1,0 +1,22 @@
+[
+  {
+    "driverId": "vettel",
+    "permanentNumber": "5",
+    "code": "VET",
+    "url": "http://en.wikipedia.org/wiki/Sebastian_Vettel",
+    "givenName": "Sebastian",
+    "familyName": "Vettel",
+    "dateOfBirth": "1987-07-03",
+    "nationality": "German"
+  },
+  {
+    "driverId": "max_verstappen",
+    "permanentNumber": "33",
+    "code": "VER",
+    "url": "http://en.wikipedia.org/wiki/Max_Verstappen",
+    "givenName": "Max",
+    "familyName": "Verstappen",
+    "dateOfBirth": "1997-09-30",
+    "nationality": "Dutch"
+  }
+]

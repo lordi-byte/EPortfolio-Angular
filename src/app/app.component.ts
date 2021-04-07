@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+import {DriverService} from "./driver.service";
+import {Driver} from "./Driver";
+import {MRData} from "./MRData";
 
 @Component({
   selector: 'app-root',
@@ -7,4 +10,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'formula-one';
+  items = new Array(10);
+  public drivers: Driver[];
+
+  constructor(public driverService: DriverService) {
+    this.driverService.getAll().subscribe(driver => this.drivers = driver);
+    console.log(this.drivers);
+  }
 }
