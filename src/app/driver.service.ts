@@ -2,7 +2,6 @@ import { Injectable } from '@angular/core';
 import {HttpClient} from "@angular/common/http";
 import {Observable} from "rxjs";
 import {Driver} from "./Driver";
-import {MRData} from "./MRData";
 
 @Injectable({
   providedIn: 'root'

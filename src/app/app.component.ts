@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import {DriverService} from "./driver.service";
 import {Driver} from "./Driver";
-import {MRData} from "./MRData";
 
 @Component({
   selector: 'app-root',
