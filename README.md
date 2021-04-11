@@ -4,8 +4,7 @@ This project shows all formula 1 drivers in 2021 and is used for an Angular pres
 
 ## Prerequisites
 
-Get NodeJS and npm (Node Package Manager) https://nodejs.org/en/download/
-Get the Angular cli https://docs.nestjs.com/cli/overview
+Get NodeJS and npm (Node Package Manager) https://nodejs.org/en/download/ and install the Angular cli with `npm install -g @angular/cli`.
 
 ## Development server
 
