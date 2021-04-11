@@ -1,18 +1,22 @@
 # FormulaOne
 
-This project shows all formula 1 drivers in 2021 and is used for an Angular presentation. 
+This project shows all formula 1 drivers in 2021 and is used for an Angular presentation for my Software Engineering lecture. 
 
 ## Prerequisites
 
+If you want to code together with my along the lecture you need the following things:
+
 Get NodeJS and npm (Node Package Manager) https://nodejs.org/en/download/ and install the Angular cli with `npm install -g @angular/cli`.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Create a new project `ng formula-one`, switch to the your project path (e.g. `cd ./formula-one`) and start the serer with `ng serve --open`. The app will automatically reload if you change any of the source files.
 
 ## API
 
-You can find the used API with this [link](http://demo8820151.mockable.io/drivers).
+You can find the used API with this [link](http://demo8820151.mockable.io/drivers). I created this API so I can't garanty the accuracy of the data.
+
+## Presentation
+
+You can find my powerpoint slides here: 
 
 ## Further help
 
