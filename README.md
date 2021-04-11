@@ -1,6 +1,6 @@
 # FormulaOne
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
+This project shows all formula 1 drivers in 2021 and is used for an Angular presentation. 
 
 ## Development server
 
