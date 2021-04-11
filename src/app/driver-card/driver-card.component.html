@@ -1,6 +1,7 @@
-<div class="card">
+<div (click)="onClick()" class="card">
   <img src="{{driver.picture}}" alt="John" style="width:100%">
-  <h1>{{driver.givenName}} {{driver.familyName}}</h1>
+  <h1>{{driver.permanentNumber}} {{driver.givenName}} {{driver.familyName}}, Code: {{driver.code}}</h1>
   <p class="title">Team: {{driver.team}}</p>
-  <p>Birthday{{driver.dateOfBirth}}</p>
+  <p>Birthday: {{driver.dateOfBirth}}</p>
+  <p>Nationality: {{driver.nationality}}</p>
 </div>

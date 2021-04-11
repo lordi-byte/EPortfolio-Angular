@@ -16,4 +16,8 @@ export class DriverCardComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  public onClick() {
+    window.open(this.driver.url);
+  }
+
 }

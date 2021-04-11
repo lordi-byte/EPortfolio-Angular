@@ -9,7 +9,6 @@ import {Driver} from "./Driver";
 })
 export class AppComponent {
   title = 'formula-one';
-  items = new Array(10);
   public drivers: Driver[];
 
   constructor(public driverService: DriverService) {

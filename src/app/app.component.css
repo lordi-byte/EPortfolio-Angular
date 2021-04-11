@@ -1,0 +1,8 @@
+body {
+  font-family: Monaco, monospace;
+}
+
+app-driver-card {
+  display: block;
+  cursor: pointer;
+}
