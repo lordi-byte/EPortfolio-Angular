@@ -1,4 +1,4 @@
-# FormulaOne
+# Simple Formula one Angular application for a Software Engineering presentation
 
 This project shows all formula 1 drivers in 2021 and is used for an Angular presentation for my Software Engineering lecture. 
 
@@ -8,7 +8,7 @@ If you want to code together with my along the lecture you need the following th
 
 Get NodeJS and npm (Node Package Manager) https://nodejs.org/en/download/ and install the Angular cli with `npm install -g @angular/cli`.
 
-Create a new project `ng formula-one`, switch to the your project path (e.g. `cd ./formula-one`) and start the serer with `ng serve --open`. The app will automatically reload if you change any of the source files.
+Create a new project `ng formula-one`, switch to the your project path (e.g. `cd ./formula-one`) and start the server with `ng serve --open`. The app will automatically reload if you change any of the source files.
 
 ## API
 
