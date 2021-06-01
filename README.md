@@ -16,7 +16,7 @@ You can find the used API with this [link](http://demo8820151.mockable.io/driver
 
 ## Presentation
 
-You can find my powerpoint slides here: 
+You can find my powerpoint slides here: [Powerpoint points](https://github.com/lordi-byte/EPortfolio-Angular/blob/master/Angular.pptx)
 
 ## Further help
 
